@@ -1,4 +1,4 @@
-# author : @Syhrularv_
+# author : JessNoGenit_
 # -*- coding: utf-8 -*-
 
 import os
@@ -21,15 +21,15 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
+{}       @p~qp~~qMb{}   ._| {}Bash AntiDuda {}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül
-{}   FqM            MMMM    {}FB       {}: {}fb.com/sarul.arif.5
+   HZM            MMMM    {}Coded by {}: {}JessNoGenit_
+{}   FqM            MMMM    {}FB       {}: {}ChaneL Yutube Jessika AntiDuda
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
